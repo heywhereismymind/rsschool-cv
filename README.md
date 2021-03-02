@@ -1,1 +1,1 @@
-https://heywhereismymind/rsschool-cv/cv
+https://heywhereismymind/rsschool-cv/cv.md
