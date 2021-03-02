@@ -1,1 +1,1 @@
-https://heywhereismymind.io/rsschool-cv/cv
+https://github.com/heywhereismymind/rsschool-cv/cv
