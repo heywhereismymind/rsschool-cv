@@ -1,2 +1,2 @@
 https://heywhereismymind/rsschool-cv/cv
-https://github.com/heywhereismymind/rssschool-cv.git
+https://github.com/heywhereismymind/rssschool-cv/cv
