@@ -5,4 +5,4 @@
 5.  https://github.com/heywhereismymind/HR-agency
 6.   https://github.com/heywhereismymind/test-task
 7.   absent
-8.   A2 . Studied at school for 5 years.
+8.   English - A2 . Studied at school for 5 years.
